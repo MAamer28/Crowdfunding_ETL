@@ -1,4 +1,9 @@
 # Crowdfunding_ETL
+### Group Members:
+- Daniel Wallach
+- Mohamed Aamer
+- Nestor Baptista
+---
 The ETL Project is designed  to gain hands-on experience in building an ETL (Extract, Transform, Load) pipeline. The project focuses on working with Excel data and involves extracting data from Excel files, transforming it using Python and Pandas, creating CSV files, designing an ERD (Entity-Relationship Diagram), creating a table schema, and loading the data into a Postgres database.
 
 ## Data Extraction:
